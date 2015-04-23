@@ -11,4 +11,6 @@
 + DHCP ACK
 + DHCP NAK
 
-
+### Caution
++ Maybe need super user ( like: root ) to use port 67,68
++ Fake IP function is just a toy ....
